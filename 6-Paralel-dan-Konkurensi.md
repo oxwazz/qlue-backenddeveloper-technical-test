@@ -33,5 +33,6 @@ Setelah selesai mengupas bawang, irisan bawang tersebut dikumpulkan dan saatnya 
 
 ### Sumber:
 [1] https://medium.com/pujanggateknologi/mengenal-konkurensi-dan-paralelisme-10746e1b7ab6
+
 [2] https://id.quora.com/Apa-perbedaan-konkurensi-dan-paralelisme
 
