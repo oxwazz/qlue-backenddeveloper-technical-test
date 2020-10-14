@@ -19,11 +19,11 @@ Saat menerapkan pendekatan konkurensi, seorang koki bisa menanak nasi sambil men
 
 **3. Contoh solusi dengan paralel:**
 
-Paralelisme, memang benar, adalah konsep yang berbeda dengan konkurensi. Apabila konkurensi menjawab bagaimana cara pekerjaan dijadwalkan, paralelisme menjawab bagaimana caranya suatu pekerjaan dibagi. Keduanya sama-sama berusaha agar keseluruhan pekerjaan tersebut selesai dengan lebih efisien.
+Paralel, memang benar, adalah konsep yang berbeda dengan konkurensi. Apabila konkurensi menjawab bagaimana cara pekerjaan dijadwalkan, paralel menjawab bagaimana caranya suatu pekerjaan dibagi. Keduanya sama-sama berusaha agar keseluruhan pekerjaan tersebut selesai dengan lebih efisien.
 
 Nah, bagaimana caranya pekerjaan memasak nasi goreng ini dibagi-bagi agar lebih efisien? Tentu saja kalau hanya satu nasi goreng yang dibuat, tidak ada gunanya kita membagi-bagi pekerjaan, karena hasilnya cuma satu. Hanya dengan menggunakan penjadwalan konkurensi, itu bisa dilakukan dengan efisien, jika kita hanya butuh satu nasi goreng.
 	
-Namun kalau kita harus memproduksi 100 nasi goreng, bagaimana caranya melakukan pekerjaan tersebut dengan mangkus dan sangkil? Pendekatan paralelisme mengharuskan kita untuk memperbanyak kokinya, peralatan dapur, bahan makanan, dan bumbu. Setelah semuanya tersedia, itupun belum berguna kalau memasaknya tidak secara paralel.
+Namun kalau kita harus memproduksi 100 nasi goreng, bagaimana caranya melakukan pekerjaan tersebut dengan mangkus dan sangkil? Pendekatan parale mengharuskan kita untuk memperbanyak kokinya, peralatan dapur, bahan makanan, dan bumbu. Setelah semuanya tersedia, itupun belum berguna kalau memasaknya tidak secara paralel.
 
 Lantas apa sih pekerjaan paralel itu? Pekerjaan paralel adalah pekerjaan yang bisa dikerjakan di saat bersamaan dan tidak saling beririsan. Saat memecah tugas menjadi tugas paralel, kita harus menentukan dulu, level paralel apa yang dipakai? Biasanya sih, level paralel yang dipakai itu di level data. Artinya datanya yang paralel, alias tidak beririsan, meskipun pekerjaannya sama.
 
