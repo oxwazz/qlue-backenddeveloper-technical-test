@@ -1,0 +1,11 @@
+-- ========== Soal 1
+SELECT DISTINCT DATE(date) as day, sum(case when score>0 then score end) as num_pos_scores, sum(case when score<0 then score end) as num_neg_scores
+FROM assessments
+WHERE DATE(date) >= "2011-03-01" AND DATE(date) <= "2011-04-30"
+GROUP BY DATE(date)
+
+-- ========== Soal 2
+SELECT DISTINCT DATE(date) as day
+FROM assessments
+WHERE DATE(date) >= "2020-03-01" AND DATE(date) <= "2020-04-30" AND score > 0
+GROUP BY DATE(date)
